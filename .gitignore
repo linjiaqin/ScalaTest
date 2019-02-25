@@ -1,0 +1,10 @@
+
+.idea
+.idea/vcs.xml
+.idea/workspace.xml
+*.iml
+target
+out/
+src/main/resources/
+src/test/
+target/
